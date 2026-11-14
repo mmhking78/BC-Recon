@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+bc-recon.log
+report.json
+*.log
+.env
